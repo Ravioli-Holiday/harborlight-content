@@ -1,0 +1,50 @@
+{
+  "crisis": [
+    {
+      "title": "988 Suicide and Crisis Lifeline",
+      "description": "Call or text 988 — free, confidential, 24/7.",
+      "url": "https://988lifeline.org",
+      "type": "crisis"
+    },
+    {
+      "title": "Crisis Text Line",
+      "description": "Text HOME to 741741 — free, 24/7 support.",
+      "url": "https://www.crisistextline.org",
+      "type": "crisis"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What is a panic attack?",
+      "description": "What's actually happening in your body and why.",
+      "url": "https://www.nimh.nih.gov/health/topics/panic-disorder",
+      "type": "article"
+    },
+    {
+      "title": "Why breathing works",
+      "description": "The science behind breath and your nervous system.",
+      "url": "https://www.health.harvard.edu/mind-and-mood/relaxation-techniques-breath-control-helps-quell-errant-stress-response",
+      "type": "article"
+    },
+    {
+      "title": "Grounding explained",
+      "description": "Why coming back to your senses calms the storm.",
+      "url": "https://www.healthline.com/health/grounding-techniques",
+      "type": "article"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Box Breathing with Navy SEALs",
+      "description": "The technique used by elite forces under pressure.",
+      "url": "https://www.youtube.com/watch?v=tEmt1Znux58",
+      "type": "video"
+    },
+    {
+      "title": "Understanding Panic Attacks",
+      "description": "A clear explanation of what happens and why.",
+      "url": "https://www.youtube.com/watch?v=tFnuGSFdOHo",
+      "type": "video"
+    }
+  ]
+}
